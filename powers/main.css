@@ -1,0 +1,12 @@
+.power {
+  font-weight: bold;
+}
+
+.disabled {
+  color: red;
+}
+
+.enabled {
+  color: green;
+}
+
